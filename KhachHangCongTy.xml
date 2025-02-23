@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<KhachHangCongTy>
+	<TenCongTy>Cong Ty TNHH ABC</TenCongTy>
+	<DienThoai>0123456789</DienThoai>
+	<DiaChi>140 Le Trong Tan</DiaChi>
+	<DanhSach>
+		<KhachHang>
+			<Loai>1</Loai>
+			<MaKhachHang>KH0001</MaKhachHang>
+			<TenKhachHang>Phan Trong Nguyen</TenKhachHang>
+			<SoLuong>1000</SoLuong>
+			<GiaBan>90000</GiaBan>
+			<KhoangCach>100</KhoangCach>
+		</KhachHang>
+		<KhachHang>
+			<Loai>2</Loai>
+			<MaKhachHang>KH0001</MaKhachHang>
+			<TenKhachHang>Phan Trong Nguyen</TenKhachHang>
+			<SoLuong>1000</SoLuong>
+			<GiaBan>90000</GiaBan>
+			<ThoiGianHopTac>10</ThoiGianHopTac>
+		</KhachHang>
+		<KhachHang>
+			<Loai>3</Loai>
+			<MaKhachHang>KH0001</MaKhachHang>
+			<TenKhachHang>Phan Trong Nguyen</TenKhachHang>
+			<SoLuong>1000</SoLuong>
+			<GiaBan>90000</GiaBan>
+			<SoLuongNhanVien>500</SoLuongNhanVien>
+		</KhachHang>
+	</DanhSach>
+</KhachHangCongTy>
